@@ -1,0 +1,11 @@
+Package: assignment1
+Type: Package
+Title: Measures of central tendency
+Version: 0.1.0
+Author: Sameer Thakur and Praniti Gaur
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
