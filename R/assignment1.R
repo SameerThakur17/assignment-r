@@ -7,3 +7,8 @@ mean_function <- function(data) {
 sd_function <- function(data) {
   sd(data)
 }
+
+# function to calculate probability density function (PDF) for normal distribution
+normal_pdf <- function(x, mean, sd) {
+  dnorm(x, mean, sd)
+}
